@@ -5,5 +5,4 @@ b=[]
 for i in c:
     if((c.count(c[i]))>=2 and i not in b):
         b.append(c[i])
-b=sorted(b)
 print(b[0])
