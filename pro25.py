@@ -12,3 +12,4 @@ def LIS(arr,size):
 size=int(input())
 arr=list(map(int,input().split()))
 LIS(arr,size)
+#ghjk
