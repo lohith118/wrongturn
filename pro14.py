@@ -1,15 +1,12 @@
 
-sbhav,imah=map(int,input().split())
-list1=list(map(int,input().split()))
-sbhav=[]
-list1.insert(0,0)
-for y in range(imah):
-     vin=[]
-     s=0
-     bb,zz=map(int,input().split())
-     for i in range(bb,zz+1):         
-         s^=list1[i]     
-     sbhav.append(s)
-for y in sbhav:
-     print(y)
-#siva
+bhav=input()
+yak=map(int,input().split())
+sin=[]
+for i in yak:
+    eat=bin(i)
+    sin.append(eat)
+fine=sorted(sin)
+fine.reverse()
+for j in fine:
+    print(int(j,2))
+#ahkj
