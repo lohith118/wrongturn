@@ -3,3 +3,4 @@ if k.find("GLGLGL")!=-1 or k.find("GRGRGR")!=-1 or k.find("GLLG")!=-1 or k.find(
     print("yes")
 else:
     print("no")
+    #udks
