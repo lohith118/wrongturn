@@ -11,4 +11,4 @@ for i in range(m):
      x=sum(mk[lower-1:upper])
      print(x)
 © 2019 GitHub, Inc.
-#hdlhsdl
+#sivasao
